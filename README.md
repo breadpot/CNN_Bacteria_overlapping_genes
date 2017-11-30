@@ -24,6 +24,8 @@
 
 已训练好的模型文件（大肠杆菌）: https://pan.baidu.com/s/1slocOZN 密码: yssk
 
+                          https://pan.baidu.com/s/1nvwuLlR 密码:ktra
+
 
 --------------
 
