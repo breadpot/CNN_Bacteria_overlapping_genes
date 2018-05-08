@@ -1,5 +1,7 @@
 # CNN_Bacteria_overlapping_genes
 
+代码升级修改中，稍后发布新预测代码
+
 预测程序的使用说明
 =================
    
