@@ -22,10 +22,10 @@
 
 已经按照我的流程文档中的步骤完成了应用的安装并配置好环境变量，将所有文件下载到一个文件夹中。
 
-已训练好的模型文件（大肠杆菌）: https://pan.baidu.com/s/1slocOZN 密码: yssk
+已训练好的模型文件（大肠杆菌）: https://pan.baidu.com/s/1slocOZN
 
 
-四标签： https://pan.baidu.com/s/1nvwuLlR  密码:ktra
+四标签： https://pan.baidu.com/s/1nvwuLlR 
 
 --------------
 
