@@ -1,6 +1,6 @@
 # CNN_Bacteria_overlapping_genes
 
-代码升级中
+
 
 预测程序的使用说明
 =================
@@ -24,10 +24,10 @@
 
 已经按照我的流程文档中的步骤完成了应用的安装并配置好环境变量，将所有文件下载到一个文件夹中。
 
-已训练好的模型文件（大肠杆菌）: https://pan.baidu.com/s/1slocOZN
+已训练好的模型文件（大肠杆菌）: 链接:https://pan.baidu.com/s/1slocOZN 密码:yssk
 
 
-四标签： https://pan.baidu.com/s/1nvwuLlR 
+四标签： 链接:https://pan.baidu.com/s/1nvwuLlR 密码:ktra
 
 --------------
 
