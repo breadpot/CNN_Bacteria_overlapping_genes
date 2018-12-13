@@ -52,7 +52,7 @@ k.close()
 
 
 
-string3="prepText gen_regions input_fn=test vocab_fn=? region_fn_stem=test label_dic_fn=& patch_size=#"
+string3="prep gen_regions input_fn=test vocab_fn=? region_fn_stem=test label_dic_fn=& patch_size=#"
 
 print type(string3)
 string4 = string3.replace("?",NETvocab)
@@ -63,11 +63,9 @@ print(string6)
 val = os.system(string6)
 
 
-string7="reNet 0:1 predict model_fn=# prediction_fn=result.prediction tstname=test datatype=sparse data_dir=./ WriteText"
+string7="Net 0:1 predict model_fn=# prediction_fn=result.prediction tstname=test datatype=sparse data_dir=./ WriteText"
 print type(string7)
 string8 = string7.replace("#",predictmodel)
 print(string8)
 val = os.system(string8)
 
-#subprocess.call(["prepText","gen_regions","input_fn=test","vocab_fn=1.vocab","region_fn_stem=test","label_dic_fn=s-cat.dic","patch_size=3"])
-#subprocess.call(["reNet","0:1","predict","model_fn=predict.Net","prediction_fn=result.prediction","tstname=test","datatype=sparse","data_dir=./","WriteText"])
